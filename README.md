@@ -4,3 +4,5 @@ This Github contains all of the files relating to the project 'Exploring VAEs pe
 Distributions' by J. Roberto Tello Ayala, Léo Benac for the CS 229 class
 
 The Notebook include all of the code to create the dataset and train and visualize the 3 different VAE Models and the pdf file contains the report of the project
+
+(The contribution of each group member is at the end of the pdf )
